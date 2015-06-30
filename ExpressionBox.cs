@@ -1,9 +1,3 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Logical.ExpressionBox
-// Assembly: BoolGate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 3F0D7661-EAFC-4F52-BA76-3A0ABDEAAD45
-// Assembly location: C:\Program Files (x86)\Atom Softworks\BoolGate\BoolGate.exe
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
