@@ -13,5 +13,8 @@ A logic gate simulation system with boolean algebra and truth table conversion c
 This is foremost an educational tool, which with the assistance of it's conversion features, should provide a helpful aid for a
 student to learn about the relation between logic circuits, boolean algebra and truth tables.
 
+## Latest Release
+The latest release of BoolGate can be found here: https://github.com/tallsop/BoolGate/releases
+
 ## Libraries and Tools
 * NCalc (https://github.com/mouhong/NCalc)
